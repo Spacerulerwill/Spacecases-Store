@@ -1,0 +1,10 @@
+pub mod balance;
+pub mod claim;
+pub mod delete;
+pub mod flip;
+pub mod item;
+pub mod register;
+pub mod reset;
+pub mod skin_quiz;
+pub mod transfer;
+pub mod start;

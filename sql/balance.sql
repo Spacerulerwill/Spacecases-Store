@@ -1,0 +1,1 @@
+SELECT balance FROM "user" WHERE id = $1

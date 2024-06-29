@@ -1,0 +1,1 @@
+INSERT INTO "user" (id, balance, last_claim, claim_streak) VALUES (($1), 0, '0001-01-01', 0) ON CONFLICT DO NOTHING
